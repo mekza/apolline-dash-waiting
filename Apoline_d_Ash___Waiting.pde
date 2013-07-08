@@ -34,7 +34,6 @@ void draw() {
    }
    drawWave(buffL,false);
    drawWave(buffR,true);
-   rotateZ(30);
  }
 }
 
